@@ -1,0 +1,22 @@
+{
+    "Group": "Kautaruma",
+    "Name": "Pickle Suprise",
+    "Version": "1.0",
+    "Description": "Mooorrrrty!",
+    "Authors": [
+        {
+            "Name": "KAUTARUMA"
+        }
+    ],
+    "Website": "",
+    "ServerVersion": "*",
+    "Dependencies": {
+        
+    },
+    "OptionalDependencies": {
+        
+    },
+    "DisabledByDefault": false,
+    "Main": "com.kautaruma.picklesuprise.PickleSuprise",
+    "IncludesAssetPack": true
+}

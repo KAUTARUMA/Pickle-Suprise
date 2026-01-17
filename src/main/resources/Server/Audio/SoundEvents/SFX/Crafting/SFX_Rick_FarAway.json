@@ -1,0 +1,15 @@
+{
+  "Layers": [
+    {
+      "Files": [
+        "Sounds/Rick/FarAway/rick0.ogg",
+        "Sounds/Rick/FarAway/rick1.ogg",
+        "Sounds/Rick/FarAway/rick2.ogg",
+        "Sounds/Rick/FarAway/rick3.ogg",
+        "Sounds/Rick/FarAway/rick4.ogg"
+      ]
+    }
+  ],
+  "Volume": 0,
+  "Parent": "SFX_Attn_Quiet"
+}

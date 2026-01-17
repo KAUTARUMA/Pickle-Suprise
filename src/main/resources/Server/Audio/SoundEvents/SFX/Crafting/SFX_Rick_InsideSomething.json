@@ -1,0 +1,15 @@
+{
+  "Layers": [
+    {
+      "Files": [
+        "Sounds/Rick/InsideSomething/rick_inside0.ogg",
+        "Sounds/Rick/InsideSomething/rick_inside1.ogg",
+        "Sounds/Rick/InsideSomething/rick_inside2.ogg",
+        "Sounds/Rick/InsideSomething/rick_inside3.ogg",
+        "Sounds/Rick/InsideSomething/rick_inside4.ogg"
+      ]
+    }
+  ],
+  "Volume": 0,
+  "Parent": "SFX_Attn_Quiet"
+}
